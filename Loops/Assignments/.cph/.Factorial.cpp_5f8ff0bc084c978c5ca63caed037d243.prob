@@ -1,0 +1,1 @@
+{"name":"Local: Factorial","url":"/home/sourav/Documents/DSA_with_CPP/Loops/Assignments/Factorial.cpp","tests":[{"id":1771580070543,"input":"6","output":"Factorial of 6 is 720\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sourav/Documents/DSA_with_CPP/Loops/Assignments/Factorial.cpp","group":"local","local":true}

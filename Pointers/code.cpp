@@ -18,6 +18,10 @@ int main(){
     int **pptr = &ptr3;    // pointer to pointer variable
     cout << &ptr3 << " = " << pptr << '\n';
 
+    cout << *ptr << '\n';  // Dereferencing of the pointer value
     // cout << sizeof(ptr) << '\n';
     // cout << sizeof(ptr2) << '\n';
+
+    *ptr = 29;
+    cout << a << '\n';
 }

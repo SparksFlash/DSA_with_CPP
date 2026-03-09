@@ -1,4 +1,8 @@
 // Staircase Search uses or apply when both rows and columns are sorted 
+// O(n + m)
+// O(n) when n >>> m means, when rows are more than cols
+// O(m) when m >>> n means, when cols are more than rows
+
 
 #include<bits/stdc++.h>
 using namespace std;

@@ -19,4 +19,7 @@ int main(){
         }
         cout << '\n';
     }
+
+    cout << matrix[2][2] << '\n';
+    cout << *(*(matrix + 2) + 2) << '\n';
 }

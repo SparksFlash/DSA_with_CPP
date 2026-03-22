@@ -29,4 +29,5 @@ int main(){
      string str1 = "anagram";
      string str2 = "nagaram";
      isAnagram(str1, str2);
+     return 0;
  }
